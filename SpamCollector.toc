@@ -7,3 +7,4 @@
 ## SavedVariables: SCollectorDB
 
 CORE_SC.lua
+MinimapButton.lua
