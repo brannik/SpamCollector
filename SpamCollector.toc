@@ -2,7 +2,7 @@
 ## Version: 1.0.0
 ## Title: Spam Collector
 ## Notes: Collect the spam from global channel
-## Author: Agset
+## Author: Brannik
 ## OptionalDeps: Ace3
 ## SavedVariables: SCollectorDB
 
