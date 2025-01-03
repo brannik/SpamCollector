@@ -3,7 +3,6 @@
 ## Title: Spam Collector
 ## Notes: Collect the spam from global channel
 ## Author: Brannik
-## OptionalDeps: Ace3
 ## SavedVariables: SCollectorDB
 
 CORE_SC.lua
