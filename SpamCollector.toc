@@ -7,3 +7,8 @@
 
 CORE_SC.lua
 MinimapButton.lua
+InstanceIcons.lua
+TabLFM.lua
+TabWTS.lua
+TabOther.lua
+TabSettings.lua
